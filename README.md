@@ -1,8 +1,8 @@
-\# Beecrowd 1041 - Coordenadas de um Ponto
+# Beecrowd 1041 - Coordenadas de um Ponto
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1041 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois valores de ponto flutuante que representam as coordenadas
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta o quadrante em que o ponto se encontra, ou informa se está
 
 
 
-\## Autor
+## Autor
 
 
 
